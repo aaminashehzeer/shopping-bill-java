@@ -14,7 +14,25 @@ A menu-driven console program in Java. The user picks a category, a product and 
 3. Run: `java Shopping`
 
 ## Sample output
-(Run your program and paste what it prints here, inside triple backticks)
+'''
+Enter the category of the products you would like to purchase:
+Categories are:
+ Electronics 
+ Clothing 
+ Books 
+ Groceries
+Groceries
+Types of groceries available are:
+ Milk 
+ Vegetables 
+ Bread
+Select the grocery item you would like to purchase:
+Bread
+Select number of products you would like to purchase:
+3
+Total price= 15.0 AED
+
+'''
 
 ## Concepts used
 Scanner input, switch-case, variables, arithmetic operators
