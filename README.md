@@ -14,8 +14,7 @@ A menu-driven console program in Java. The user picks a category, a product and 
 3. Run: `java Shopping`
 
 ## Sample output
-'''
-Enter the category of the products you would like to purchase:
+'''Enter the category of the products you would like to purchase:
 Categories are:
  Electronics 
  Clothing 
@@ -31,7 +30,6 @@ Bread
 Select number of products you would like to purchase:
 3
 Total price= 15.0 AED
-
 '''
 
 ## Concepts used
